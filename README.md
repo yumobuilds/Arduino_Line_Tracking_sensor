@@ -1,4 +1,6 @@
 Arduino Line Tracking Sensor - Black/White Line Detector with LED Indicator
+
+
 A simple Arduino project that uses an infrared line tracking sensor module to detect black or white lines and mirrors the detection on an onboard LED, while also streaming live sensor readings to the Serial Monitor. 
 A great beginner project for learning digital input, TTL signal reading, and basic sensor-to LED logic.
 
